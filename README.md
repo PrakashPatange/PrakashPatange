@@ -2,16 +2,18 @@
 
 🚀 Aspiring **MERN Stack Developer** | **Computer Engineering Student**
 
-Welcome to my GitHub! I'm a passionate backend developer with a strong interest in creating scalable, efficient, and user-centric applications. As a third-year Computer Engineering student, I'm actively building my skills and contributing to projects that solve real-world problems.
+Welcome to my GitHub! I'm a passionate about frontend and backend developer with a strong interest in creating scalable, efficient, and user-centric applications. As a third-year Computer Engineering student, I'm actively building my skills and contributing to projects that solve real-world problems.
 
 ## 🌟 About Me
 
 - 🎓 **Education**: Pursuing B.E. in Computer Engineering
-- 💻 **Skills**: MERN Stack, Node.js, Express, MongoDB, React, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS.
+- 💻 **Skills**: MERN Stack, Node.js, Express, MongoDB, React, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS,C,C++,Java,Python.
+
 - 🏆 **Strengths**:
   - Completing tasks within deadlines
   - Collaborative team player
-  - Passionate about frontend & backend development and problem-solving
+  - Passionate about frontend & backend development and problem-solving.
+  - 
 - ⚽ **Hobbies**: Playing sports and staying active outside work
 
 ## 💼 Projects
@@ -50,6 +52,8 @@ Here are some of my standout projects:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+
 
 ## 📈 **GitHub Stats**
 
