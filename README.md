@@ -2,18 +2,19 @@
 
 🚀 Aspiring **MERN Stack Developer** | **Computer Engineering Student**
 
-Welcome to my GitHub! I'm a passionate about frontend and backend developer with a strong interest in creating scalable, efficient, and user-centric applications. As a third-year Computer Engineering student, I'm actively building my skills and contributing to projects that solve real-world problems.
+Welcome to my GitHub! I'm a passionate about frontend and backend developer with a strong interest in creating scalable, efficient, and user-centric applications. As a third-year Computer Engineering student, I'm actively building my skills and contributing to projects that solve real-world problems
 
 ## 🌟 About Me
 
 - 🎓 **Education**: Pursuing B.E. in Computer Engineering
-- 💻 **Skills**: MERN Stack, Node.js, Express, MongoDB, React, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS,C,C++,Java,Python.
+
+- 💻 **Skills**: MERN Stack, Node.js, Express, MongoDB, React, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, C, C++, Java, Python
 
 - 🏆 **Strengths**:
   - Completing tasks within deadlines
   - Collaborative team player
-  - Passionate about frontend & backend development and problem-solving.
-  - 
+  - Passionate about frontend & backend development and problem-solving
+    
 - ⚽ **Hobbies**: Playing sports and staying active outside work
 
 ## 💼 Projects
